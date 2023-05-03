@@ -1,6 +1,6 @@
 # Loopstudios Website
 
-Loopstudios landing page [Demo](https://fylo-tailwind-project.vercel.app/)
+Loopstudios landing page [Demo](https://loopstudio-vert.vercel.app/)
 
 ## Usage
 
