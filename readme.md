@@ -17,4 +17,5 @@ npm run watch
 ```
 
 
-![Screenshot (173)](https://user-images.githubusercontent.com/64547504/236167680-38a4e72b-dcdb-4cea-9a90-2735a695a4ad.png)
+
+![loopstudio-vert vercel app_](https://user-images.githubusercontent.com/64547504/237037096-888751f5-dd63-41ce-8ed3-8dccf1f71004.png)
