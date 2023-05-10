@@ -1,6 +1,6 @@
 # Loopstudios Website
 
-Loopstudios landing page [Demo](https://loopstudio-vert.vercel.app/)
+Loopstudios landing page [LiveDemo](https://loopstudio-vert.vercel.app/)
 
 ## Usage
 
